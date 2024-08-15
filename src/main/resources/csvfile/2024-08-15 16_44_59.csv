@@ -1,0 +1,7 @@
+ID,NOMBRE,INVENTARIO,TRANSACCION,IDTRANS,FECHA,IDPRODUCT, PRODUCTO,CANTIDAD,VALOR
+1,camisetas,10,compra,1,Wed - 14 Aug 2024 16:27:12 GMT,1,camisetas,10,900
+1,camisetas,10,compra,2,Wed - 14 Aug 2024 16:27:28 GMT,1,camisetas,5,920
+1,camisetas,10,venta,5,Wed - 14 Aug 2024 16:30:24 GMT,1,camisetas,5,800
+2,vasos,3,compra,3,Wed - 14 Aug 2024 16:28:08 GMT,2,vasos,5,920
+2,vasos,3,venta,3,Wed - 14 Aug 2024 16:28:18 GMT,2,vasos,1,1500
+2,vasos,3,venta,4,Wed - 14 Aug 2024 16:29:30 GMT,2,vasos,1,1500

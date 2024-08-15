@@ -1,0 +1,82 @@
+{
+    "kardex": [
+        {
+            "id": 1,
+            "name": "camisetas",
+            "inventario": 10,
+            "ingresos": [
+                {
+                    "id": 1,
+                    "date": "Wed, 14 Aug 2024 16:27:12 GMT",
+                    "product": {
+                        "id": 1,
+                        "name": "camisetas"
+                    },
+                    "amount": "10",
+                    "purchasePrice": "900"
+                },
+                {
+                    "id": 2,
+                    "date": "Wed, 14 Aug 2024 16:27:28 GMT",
+                    "product": {
+                        "id": 1,
+                        "name": "camisetas"
+                    },
+                    "amount": "5",
+                    "purchasePrice": "920"
+                }
+            ],
+            "egresos": [
+                {
+                    "id": 5,
+                    "date": "Wed, 14 Aug 2024 16:30:24 GMT",
+                    "product": {
+                        "id": 1,
+                        "name": "camisetas"
+                    },
+                    "amount": "5",
+                    "salePrice": "800"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "vasos",
+            "inventario": 3,
+            "ingresos": [
+                {
+                    "id": 3,
+                    "date": "Wed, 14 Aug 2024 16:28:08 GMT",
+                    "product": {
+                        "id": 2,
+                        "name": "vasos"
+                    },
+                    "amount": "5",
+                    "purchasePrice": "920"
+                }
+            ],
+            "egresos": [
+                {
+                    "id": 3,
+                    "date": "Wed, 14 Aug 2024 16:28:18 GMT",
+                    "product": {
+                        "id": 2,
+                        "name": "vasos"
+                    },
+                    "amount": "1",
+                    "salePrice": "1500"
+                },
+                {
+                    "id": 4,
+                    "date": "Wed, 14 Aug 2024 16:29:30 GMT",
+                    "product": {
+                        "id": 2,
+                        "name": "vasos"
+                    },
+                    "amount": "1",
+                    "salePrice": "1500"
+                }
+            ]
+        }
+    ]
+}
